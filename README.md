@@ -1,26 +1,12 @@
-<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" width="100%">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="blue">
-        <animate attributeName="stop-color" values="blue;skyblue;purple;pink;blue" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="purple">
-        <animate attributeName="stop-color" values="purple;pink;blue;skyblue;purple" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="30" fill="url(#gradient)" stroke="black" stroke-width="1" opacity="0.8">
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="6s" repeatCount="indefinite" />
-    Muhammad Umair
-  </text>
-</svg>
-
-
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
 
 <p align="center">
-    <img src="https://rb.gy/7uxh9w/?lines=Python Developer;Generative AI Engineer;%20Experienced%20Prompt%20Engineering;Open-Source%20Contributor;Free%20Online%20Instructor;DewTown%20Campus%20 Ambassador;&font=Fira%20Code&center=true&width=440&height=60&color=7f00ff&pause=1000&size=22" alt="Typing SVG" />
-  </a>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
   <h2>🔥 Streak Stats</h2>
