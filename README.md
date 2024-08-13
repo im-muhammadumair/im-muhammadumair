@@ -13,6 +13,7 @@
     <a href="https://rb.gy/7o3n90">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="im-muhammadumair's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=im-muhammadumair&theme=highcontrast&layout=compact"/>
     </a>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=im-muhammadumair&label=Profile%20views&color=0e75b6&style=flat" alt="im-muhammadumair" /> </p>
 
 
   <h2>💻 GitHub Profile Stats</h2>
