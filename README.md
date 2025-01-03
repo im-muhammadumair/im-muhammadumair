@@ -4,9 +4,10 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="[https://www.linkedin.com/in/im-muhammadumair](/)">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20and%20Generative%20AI%20Engineer;Experienced %20custom%20Prompt Writing;Technical%20Writer%20and%20Blogger;Open-Source%20Contributor;DewTown Ambassador;Instructor and Career Consultant&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<a href="https://www.linkedin.com/in/im-muhammadumair" target="_blank" rel="noopener noreferrer">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Python%20and%20Generative%20AI%20Engineer;Experienced%20custom%20Prompt%20Writing;Technical%20Writer%20and%20Blogger;Open-Source%20Contributor;DewTown%20Ambassador;Instructor%20and%20Career%20Consultant&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</a>
+
 
   <h2>🔥 Streak Stats</h2>
 <div align="center">
